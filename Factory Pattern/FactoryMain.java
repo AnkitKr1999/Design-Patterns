@@ -1,4 +1,6 @@
-class FactoryMain{
+// This pattern is used for the creation of objects
+// Part of creational desing pattern
+class FactoryMain{ 
     
     public static void main(String... args)
     {
