@@ -2,6 +2,8 @@ package SingletonPattern;
 
 import java.util.Objects;
 
+// singleton is a creational design pattern which lets you ensure that a class has only one instance
+// while providing a global access point to this instance
 public class Singleton {
     public static void main(String[] args) {
 
